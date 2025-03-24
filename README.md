@@ -47,6 +47,3 @@ The **data_visualizer** module allows users to:
 
 ## 🛠 **Contributing**  
 We welcome contributions! Feel free to open issues and submit pull requests.  
-
-## 📜 **License**  
-This project is licensed under the **MIT License**.  
